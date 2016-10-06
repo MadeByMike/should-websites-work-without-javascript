@@ -1,2 +1,2 @@
 # should-websites-work-without-javascript
-For fun
+This is just for fun, don't take it seriously.
